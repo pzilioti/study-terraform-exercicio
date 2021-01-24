@@ -1,0 +1,10 @@
+mysql:
+  root_db_password: "teste123456"
+  user_app: mysql
+  password_app: mysql
+  db_name: mysql
+  hosts:
+    - "10.80.4.11"
+    - 127.0.0.1
+    - ::1
+    - localhost
